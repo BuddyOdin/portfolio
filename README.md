@@ -10,9 +10,19 @@
   _Aug 2022 – Jul 2023_  
   CGPA: 3.55/4.00  
 
+---
 
 ## Projects
-- Kwazam Chess
+
+### 🎮 Kwazam Chess
+A turn-based Java chess game implementing OOP principles and design patterns such as **MVC**, **Observer**, **Facade**, and **Singleton**. The game features dynamic piece transformation and state-saving mechanics.
+
+- **Tech Used**: Java
+- **Role**: Core Developer – implemented architecture, game logic, and UI.
+- **Highlights**: Strong focus on maintainable code using object-oriented design.
+
+![Kwazam Chess Screenshot](images/kwazamchess.png) 
+
 - Lilac Grove Kindergarten Assessment Tracker
 - Duck Shooter
 - CPU scheduler
