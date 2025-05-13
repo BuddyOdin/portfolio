@@ -1,5 +1,5 @@
 title: Amir Muqrie
-#logo:
+logo: /assets/self.png 
 #descriptions:
-#show_downloads: true
-theme: jekyll-theme-dinky
+show_downloads: true
+theme: jekyll-theme-minimal
