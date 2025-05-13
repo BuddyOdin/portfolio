@@ -1,11 +1,11 @@
 # Game Development Enthusiast | CS Undergrad
-Technical Skills: Python, C++, Java, JavaScript, SQL
+### Technical Skills: Python, C++, Java, JavaScript, SQL
 
-### Education
+## Education
 - Computer Science, Bachelor's
 - IT, Foundation
 
-### Projects
+## Projects
 - Kwazam Chess
 - Lilac Grove Kindergarten Assessment Tracker
 - Duck Shooter
