@@ -21,8 +21,39 @@ A turn-based Java chess game implementing OOP principles and design patterns suc
 - **Role**: Core Developer – implemented architecture, game logic, and UI.
 - **Highlights**: Strong focus on maintainable code using object-oriented design.
 
-![Kwazam Chess Screenshot](images/kwazamchess.png) 
+![Kwazam Chess Screenshot](portfolio/assets/kwazamchess.png) 
 
-- Lilac Grove Kindergarten Assessment Tracker
-- Duck Shooter
-- CPU scheduler
+---
+
+### 🧮 Lilac Grove Kindergarten Assessment Tracker
+A web app for kindergarten staff and parents to track academic progress and communicate more efficiently.
+
+- **Tech Used**: Python, Django, HTML, CSS, JavaScript, SQLite
+- **Role**: Full-stack Developer – built backend logic and frontend UI.
+- **Highlights**: CRUD operations, user-friendly design, real-time updates between staff and parents.
+
+![Lilac Grove Screenshot](portfolio/assets/lilacgrove.png)  
+
+---
+
+### ⏱️ CPU Scheduler
+A visual CPU scheduling web app that displays the flow of scheduling algorithms.
+
+- **Tech Used**: Java
+- **Role**: Developer – built the flow simulation and UI interactions.
+- **Highlights**: Helps visualize complex CPU scheduling logic through an interactive interface.
+
+![CPU Scheduler Screenshot](portfolio/assets/cpuscheduler.png)  
+
+---
+
+### 🐤 Duck Shooter
+A 2D precision-based shooting game where players must hit moving targets and ducks.
+
+- **Tech Used**: GDevelop
+- **Role**: Solo Developer – designed and implemented core gameplay systems.
+- **Highlights**:  Shows control over gameplay loops and UI design
+
+![Duck Shooter Screenshot](portfolio/assets/duckshooter.png) 
+
+
