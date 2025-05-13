@@ -56,4 +56,15 @@ A 2D precision-based shooting game where players must hit moving targets and duc
 
 ![Duck Shooter Screenshot](assets/duckshooter.png) 
 
+---
+
+## 💬 Contact
+- 📧 Email: [amirmuqrie@gmail.com](mailto:amirmuqrie@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/amir-muqrie-salehodin-371458286](https://www.linkedin.com/in/amir-muqrie-salehodin-371458286)  
+- 🧑‍💻 GitHub: [github.com/BuddyOdin](https://github.com/BuddyOdin)
+
+---
+
+_Last updated May 2025_
+
 
