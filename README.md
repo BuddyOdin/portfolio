@@ -21,7 +21,7 @@ A turn-based Java chess game implementing OOP principles and design patterns suc
 - **Role**: Core Developer – implemented architecture, game logic, and UI.
 - **Highlights**: Strong focus on maintainable code using object-oriented design.
 
-![Kwazam Chess Screenshot](portfolio/assets/kwazamchess.png) 
+![Kwazam Chess Screenshot](assets/kwazamchess.png) 
 
 ---
 
@@ -32,7 +32,7 @@ A web app for kindergarten staff and parents to track academic progress and comm
 - **Role**: Full-stack Developer – built backend logic and frontend UI.
 - **Highlights**: CRUD operations, user-friendly design, real-time updates between staff and parents.
 
-![Lilac Grove Screenshot](portfolio/assets/lilacgrove.png)  
+![Lilac Grove Screenshot](assets/lilacgrove.png)  
 
 ---
 
@@ -43,7 +43,7 @@ A visual CPU scheduling web app that displays the flow of scheduling algorithms.
 - **Role**: Developer – built the flow simulation and UI interactions.
 - **Highlights**: Helps visualize complex CPU scheduling logic through an interactive interface.
 
-![CPU Scheduler Screenshot](portfolio/assets/cpuscheduler.png)  
+![CPU Scheduler Screenshot](assets/cpuscheduler.png)  
 
 ---
 
@@ -54,6 +54,6 @@ A 2D precision-based shooting game where players must hit moving targets and duc
 - **Role**: Solo Developer – designed and implemented core gameplay systems.
 - **Highlights**:  Shows control over gameplay loops and UI design
 
-![Duck Shooter Screenshot](portfolio/assets/duckshooter.png) 
+![Duck Shooter Screenshot](assets/duckshooter.png) 
 
 
