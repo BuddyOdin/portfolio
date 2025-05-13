@@ -1,4 +1,4 @@
-# Game Development Enthusiast | CS Undergrad
+# Game Development Student | CS Undergrad
 ### Technical Skills: Python, C++, Java, JavaScript, SQL
 
 ## Education
