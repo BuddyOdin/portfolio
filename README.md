@@ -65,7 +65,7 @@ A first-person stealth escape game set in a multi-storey building during a city-
 - **Role**: Team of 2 – built player movement (Rigidbody-based), first-person camera look, flashlight/battery system, input handling, and physics layer setup.
 - **Highlights**: Detection-based stealth loop where flashlight use creates risk vs. visibility trade-off; Raycast-driven item interaction system.
 
-![Blackout Screenshot](assets/blackout.png) 
+![Blackout Screenshot](assets/blackout.jpg) 
 
 ---
 
