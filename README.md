@@ -20,7 +20,7 @@ A 2D puzzle-platformer built around a movement-based time-manipulation mechanic,
 - **Role**: Solo Developer – designed and implemented the core mechanic, state system, and gameplay systems.
 - **Highlights**: Hysteresis-based state transitions for smooth, non-jittery mechanic switching.
 
-![Timeflow Screenshot](assets/kwazamchess.png) 
+![Timeflow Screenshot](assets/timeflow.png) 
 
 ---
 
@@ -31,7 +31,7 @@ A grid-based tactics game where enemy units use a custom A* pathfinding system t
 - **Role**: Solo Developer – built the pathfinding system, turn management architecture, and enemy AI.
 - **Highlights**: 3 distinct enemy AI archetypes (melee, ranged kiter, and stealth assassin), each with unique targeting and positioning logic.
 
-![Pathbound Screenshot](assets/kwazamchess.png) 
+![Pathbound Screenshot](assets/pathbound.png) 
 
 ---
 
