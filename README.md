@@ -65,6 +65,6 @@ A web app for kindergarten staff and parents to track academic progress and comm
 
 ---
 
-_Last updated May 2025_
+_Last updated Sep 2026_
 
 
