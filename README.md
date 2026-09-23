@@ -1,5 +1,6 @@
 # Game Development Student | CS Undergrad
-### Technical Skills: Python, C++, Java, JavaScript, SQL
+### Technical Skills: Python, C#, C++, Java, JavaScript, SQL
+### Game Engines: Unity 6, Unreal Engine 5, Monogame, Pygame
 
 ## Education
 - **Bachelor of Computer Science**, Multimedia University  
