@@ -3,8 +3,8 @@
 
 ## Education
 - **Bachelor of Computer Science**, Multimedia University  
-  _Aug 2023 – Aug 2026 (Expected)_  
-  CGPA: 3.43/4.00  
+  _Aug 2023 – Aug 2026_  
+  CGPA: 3.78/4.00  
 
 - **Foundation in Information Technology**, Multimedia University  
   _Aug 2022 – Jul 2023_  
@@ -13,6 +13,27 @@
 ---
 
 ## Projects
+### 🎮 Timeflow
+A 2D puzzle-platformer built around a movement-based time-manipulation mechanic, where staying in motion stabilizes a safe "Past" state while hesitation triggers a hazardous "Future" state.
+
+- **Tech Used**: Unity, C#
+- **Role**: Solo Developer – designed and implemented the core mechanic, state system, and gameplay systems.
+- **Highlights**: Hysteresis-based state transitions for smooth, non-jittery mechanic switching.
+
+![Timeflow Screenshot](assets/kwazamchess.png) 
+
+---
+
+### 🎮 Pathbound — 2D Turn-Based Tactics Game
+A grid-based tactics game where enemy units use a custom A* pathfinding system to navigate and engage the player in turn-based combat.
+
+- **Tech Used**: Unity, C#
+- **Role**: Solo Developer – built the pathfinding system, turn management architecture, and enemy AI.
+- **Highlights**: 3 distinct enemy AI archetypes (melee, ranged kiter, and stealth assassin), each with unique targeting and positioning logic.
+
+![Pathbound Screenshot](assets/kwazamchess.png) 
+
+---
 
 ### 🎮 Kwazam Chess
 A turn-based Java chess game implementing OOP principles and design patterns such as **MVC**, **Observer**, **Facade**, and **Singleton**. The game features dynamic piece transformation and state-saving mechanics.
@@ -33,28 +54,6 @@ A web app for kindergarten staff and parents to track academic progress and comm
 - **Highlights**: CRUD operations, user-friendly design, real-time updates between staff and parents.
 
 ![Lilac Grove Screenshot](assets/lilacgrove.png)  
-
----
-
-### ⏱️ CPU Scheduler
-A visual CPU scheduling web app that displays the flow of scheduling algorithms.
-
-- **Tech Used**: Java
-- **Role**: Developer – built the flow simulation and UI interactions.
-- **Highlights**: Helps visualize complex CPU scheduling logic through an interactive interface.
-
-![CPU Scheduler Screenshot](assets/cpuscheduler.png)  
-
----
-
-### 🐤 Duck Shooter
-A 2D precision-based shooting game where players must hit moving targets and ducks.
-
-- **Tech Used**: GDevelop
-- **Role**: Solo Developer – designed and implemented core gameplay systems.
-- **Highlights**:  Shows control over gameplay loops and UI design
-
-![Duck Shooter Screenshot](assets/duckshooter.png) 
 
 ---
 
