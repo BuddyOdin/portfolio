@@ -36,6 +36,39 @@ A grid-based tactics game where enemy units use a custom A* pathfinding system t
 
 ---
 
+### 🎮 Wrecking Ball Blitz
+A physics-based platformer where the player pilots a 5,000 kg wrecking ball to demolish physics-jointed structures before a timer runs out, relying entirely on real-world pendulum physics instead of pre-baked animation.
+
+- **Tech Used**: Unreal Engine 5, Blueprint, Chaos Physics
+- **Role**: Solo Developer – built ball/cable physics, breakable joint-based structures, and dynamic building spawning.
+- **Highlights**: True pendulum-driven momentum system and buildings assembled from constraint-jointed mesh pieces with configurable break thresholds.
+
+![Wrecking Ball Screenshot](assets/wreckingball.png) 
+
+---
+
+### 🎮 Raptor Rampage
+A 2D side-scrolling destruction game built with Paper2D, where a player-controlled raptor demolishes a cyberpunk city's props using melee and AoE shockwave attacks before time runs out.
+
+- **Tech Used**: Unreal Engine 5, Paper2D, Blueprint, Niagara
+- **Role**: Solo Developer – built combat system, prop health/destruction logic, and game loop tracking.
+- **Highlights**: Box/sphere trace-based combat, combo scoring system, and Niagara-driven destruction VFX.
+
+![Raptor Screenshot](assets/raptor.png) 
+
+---
+
+### 🎮 Blackout — Urban Survival Stealth Game
+A first-person stealth escape game set in a multi-storey building during a city-wide blackout, where players must sneak past armed looters using light and shadow to find a way out.
+
+- **Tech Used**: Unity, C#, NavMesh
+- **Role**: Team of 2 – built player movement (Rigidbody-based), first-person camera look, flashlight/battery system, input handling, and physics layer setup.
+- **Highlights**: Detection-based stealth loop where flashlight use creates risk vs. visibility trade-off; Raycast-driven item interaction system.
+
+![Blackout Screenshot](assets/blackout.png) 
+
+---
+
 ### 🎮 Kwazam Chess
 A turn-based Java chess game implementing OOP principles and design patterns such as **MVC**, **Observer**, **Facade**, and **Singleton**. The game features dynamic piece transformation and state-saving mechanics.
 
